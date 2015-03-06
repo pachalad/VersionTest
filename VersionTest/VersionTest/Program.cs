@@ -11,6 +11,7 @@ namespace VersionTest
         static void Main(string[] args)
         {
             Console.WriteLine("This is the initial commit");
+			//MASTER
         }
     }
 }
